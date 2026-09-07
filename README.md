@@ -1,5 +1,4 @@
 <div align="center">
-<img src="images/me.jpg" width="140" height="140" style="border-radius:50%;object-fit:cover;" alt="Vaibhav Jain" />
 
 # Vaibhav Jain
 
